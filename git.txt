@@ -1,0 +1,9 @@
+PS C:\Users\003TSU744\Desktop\maneeshpythonproj> git remote add origin https://github.com/jmjkmanish/maneeshpythonproj.git
+PS C:\Users\003TSU744\Desktop\maneeshpythonproj> git fetch
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (3/3), 888 bytes | 30.00 KiB/s, done.
+From https://github.com/jmjkmanish/maneeshpythonproj
+ * [new branch]      main       -> origin/main
+PS C:\Users\003TSU744\Desktop\maneeshpythonproj> git push --set-upstream origin master
